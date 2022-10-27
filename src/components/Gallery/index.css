@@ -1,9 +1,10 @@
 .bg-container {
-  background-color: #6cc7ff;
+  background-color: rgb(83, 235, 255);
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+  background-size: cover;
 }
 
 .card-container {
